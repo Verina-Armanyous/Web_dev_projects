@@ -1,0 +1,14 @@
+h1{
+
+	text-align: center;
+	text-transform: uppercase;
+}
+img{
+	width: 30%;
+	float:left;
+	margin: 1.66%
+}
+
+img:hover{
+	transform: scale(1.3)
+}
